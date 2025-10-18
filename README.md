@@ -1,2 +1,2 @@
 # balloons
-balloons in console
+balloons in console using randomly generated balloon locations.
